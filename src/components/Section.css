@@ -1,0 +1,28 @@
+.section { margin-top: 56px; }
+
+.section__header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 24px;
+}
+
+.section__header--left { justify-content: space-between; }
+.section__header--center { justify-content: center; }
+
+.section__title {
+  font-size: 24px;
+  font-weight: 700;
+  color: var(--dark-gray-2);
+}
+
+.section__link {
+  font-size: 18px;
+  color: var(--primary);
+  text-decoration: none;
+}
+
+.section__link:hover { text-decoration: underline; }
+
+/* No modo centralizado o link fica à direita, sem desalinhar o título */
+.section__header--center { position: relative; }
+.section__header--center .section__link { position: absolute; right: 0; }
