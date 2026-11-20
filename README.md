@@ -4,11 +4,11 @@ Projeto final de Front-end do **Digital College**: uma loja virtual de tênis fe
 
 ## Integrantes
 
-- Natália Paz Gadelha <!-- adicione aqui o nome completo de todos os integrantes da equipe -->
+- Natália Paz Gadelha 
 
 ## Deploy
 
-<!-- cole aqui o link do projeto publicado (Vercel/Netlify) -->
+https://loja-digital-seven-delta.vercel.app/
 
 ## Tecnologias
 
